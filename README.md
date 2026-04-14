@@ -7,3 +7,4 @@ This repository is used to track my daily learning progress and maintain consist
 - Build a consistent commit habit
 - Maintain a public activity record
 Day 1 commit
+Day 2 commit
